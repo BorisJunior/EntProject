@@ -1,0 +1,26 @@
+td, textarea, datalist {
+font-family: "Times New Roman", Times, serif;
+font-size:16px;
+margin-left: 30px
+}
+
+h4,td{
+	color: white;
+}
+
+label{
+color: #663399; 
+font-weight: bold ;
+}
+legend {
+
+color: #f5bf75;
+font-weight: bold;
+font-size:24px;
+}
+
+fieldset {
+margin-bottom: 20px;
+margin-left: 125px;
+background-color: #282a32;
+}
